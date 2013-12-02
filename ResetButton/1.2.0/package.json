@@ -1,0 +1,23 @@
+{
+    "name": "ResetButton",
+    "type": "code",
+    "creator": "CMFirst",
+    "summary": "Button to reset all form fields",
+    "detailedDescription": "Button to reset all form fields",
+    "version": "1.2.0",
+    "compatVersion": "1.0.0",
+    "format": "1",
+    "architect": {
+	    "compatFrameworks": [
+		"ext42"
+	    ],
+	    "classes": [{
+		"definition": "ResetButton.js",
+		"className": "Ext.ux.ResetButton",
+		"js": ["ResetButton.js"],
+		"css": []
+	    }]
+	},
+    "local": true,
+    "requires": []
+}
