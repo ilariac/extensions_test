@@ -1,3 +1,3 @@
 <?php
 
-echo "prova per checkout";
+echo "prova per checkout2";
